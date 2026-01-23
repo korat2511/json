@@ -1,6 +1,6 @@
 {
-  "version": "1.0.15",
-  "android_force_update": true,
+  "version": "1.0.16",
+  "android_force_update": false,
   "ios_force_update": true,
   "message": "New version available with bug fixes and improvements",
   "release_notes": [
